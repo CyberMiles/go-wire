@@ -1,3 +1,3 @@
 package wire
 
-const Version = "0.7.3(b)"
+const Version = "0.7.3"
