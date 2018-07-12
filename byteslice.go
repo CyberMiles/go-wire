@@ -4,7 +4,7 @@ import (
 	"io"
 	"math"
 
-	cmn "github.com/tendermint/tmlibs/common"
+	cmn "github.com/tendermint/tendermint/libs/common"
 )
 
 func WriteByteSlice(bz []byte, w io.Writer, n *int, err *error) {
